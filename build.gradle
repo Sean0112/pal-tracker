@@ -19,7 +19,7 @@ plugins {
 apply plugin: 'org.springframework.boot'
 
 repositories {
-    mavenCentral()  
+    mavenCentral()
 }
 
 dependencies {
